@@ -20,12 +20,12 @@ Com o simples comando <b>terraform apply</b> toda a infraestrutura é levantada 
 
 <b>Comando "terraform apply" com sucesso e endereço IP do EC2</b>
 
-![final do comando terraform apply](screenshot/terraform.jpg)
+![final do comando terraform apply](screenshots/terraform.jpg)
 
 <b>Infracost - Detalhando o custo da infraestrutura como código executando na AWS</b>
 
-![final do comando terraform apply](screenshot/infracost.jpg)
+![final do comando terraform apply](screenshots/infracost.jpg)
 
 <b>Website sendo exposto na porta 80 e abrindo no browser</b>
 
-![final do comando terraform apply](screenshot/site.jpg)
+![final do comando terraform apply](screenshots/site.jpg)
