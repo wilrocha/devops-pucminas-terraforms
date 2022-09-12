@@ -1,8 +1,0 @@
-aws_region             = "us-east-1"
-prefix                 = "web"
-aws_instance_type      = "t2.micro"
-aws_chave_publica_ssh  = "C:\\Users\\wilberson\\.ssh\\aws_docker.pub"
-aws_chave_privada_ssh  = "C:\\Users\\wilberson\\.ssh\\aws_docker"
-aws_ami                = "ami-052efd3df9dad4825"
-aws_chave_acesso       = "JfxQG7gY+ME7xTIB3I/ysW9C/zZFLFOuryggZb35"
-aws_chave_acesso_id    = "AKIAYKRGTO7HBUFPWYNC"
