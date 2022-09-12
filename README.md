@@ -24,7 +24,7 @@ Com o simples comando <b>terraform apply</b> toda a infraestrutura é levantada 
 
 <b>Infracost - Detalhando o custo da infraestrutura como código executando na AWS</b>
 
-![final do comando terraform apply](screenshots/infracost.jpg)
+![final do comando terraform apply](screenshots/Infracost.jpg)
 
 <b>Website sendo exposto na porta 80 e abrindo no browser</b>
 
